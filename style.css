@@ -331,9 +331,9 @@ body, html {
     .nav2 {
         display: none;
     }
-    .navbar img {
-        width: 90px;
-        height: 30px;
+    .nav3 {
+        margin-right: 0px;
+        display: none;
     }
     .tables-header h1 {
         text-align: center;
@@ -367,6 +367,10 @@ body, html {
         justify-content: center;
     }
     .footer6-2 ul{
+        justify-content: center;
+    }
+    .post-footer {
+        margin-right: 0px;
         justify-content: center;
     }
 }
